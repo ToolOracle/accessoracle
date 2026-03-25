@@ -1,0 +1,1 @@
+{"name": "AccessOracle", "description": "DORA Art. 9 access control \u2014 10 MCP tools for IAM, MFA, SoD, privileged access", "category": "compliance", "tags": ["dora", "iam", "access-control", "mfa"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/access/mcp/"}
