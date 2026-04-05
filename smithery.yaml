@@ -1,0 +1,5 @@
+name: AccessOracle
+description: DORA Art. 9 Access Control — 10 MCP tools
+endpoint: https://tooloracle.io/access/mcp/
+transport: streamable-http
+license: MIT
